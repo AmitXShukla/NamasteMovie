@@ -1,7 +1,7 @@
 # Site Settings
-title: My Awesome Website
-description: A simple website built with Markdown and Jekyll
-author: Your Name
+title: Namaste Movie
+description: We believe you deserve information, not influence. Stories, not spin.
+author: NamasteAITV
 
 # Build settings
 markdown: kramdown
@@ -9,7 +9,7 @@ theme: minima
 
 # URL settings (update 'username' to your GitHub username)
 # baseurl: "/repository-name"  # Uncomment if using project pages
-# url: "https://username.github.io"
+# url: "https://amitxshukla.github.io"
 
 # Navigation
 header_pages:
@@ -18,8 +18,8 @@ header_pages:
   - contact.md
 
 # Social links (optional)
-github_username: yourusername
-# twitter_username: yourhandle
+github_username: AmitXShukla
+twitter_username: ashuklax
 
 # Exclude from build
 exclude:

@@ -8,8 +8,8 @@ markdown: kramdown
 theme: minima
 
 # URL settings (update 'username' to your GitHub username)
-# baseurl: "/repository-name"  # Uncomment if using project pages
-# url: "https://amitxshukla.github.io"
+baseurl: "/NamasteMovie"  # Uncomment if using project pages
+url: "https://amitxshukla.github.io"
 
 # Navigation
 header_pages:

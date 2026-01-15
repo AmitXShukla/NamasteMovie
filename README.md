@@ -2,6 +2,7 @@
 
 **Pure Non-Opinionated, Fact-Based Content**
 
+[Live App](https://amitxshukla.github.io/NamasteMovie/)
 ---
 
 ## About Us

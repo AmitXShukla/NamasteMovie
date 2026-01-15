@@ -5,7 +5,7 @@ author: NamasteAITV
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: midnight
 
 # URL settings (update 'username' to your GitHub username)
 baseurl: "/NamasteMovie"  # Uncomment if using project pages

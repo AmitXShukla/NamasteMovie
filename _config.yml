@@ -1,0 +1,28 @@
+# Site Settings
+title: My Awesome Website
+description: A simple website built with Markdown and Jekyll
+author: Your Name
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# URL settings (update 'username' to your GitHub username)
+# baseurl: "/repository-name"  # Uncomment if using project pages
+# url: "https://username.github.io"
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Social links (optional)
+github_username: yourusername
+# twitter_username: yourhandle
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
